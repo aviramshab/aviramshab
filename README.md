@@ -1,4 +1,5 @@
-## Hi there 👋
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AEC1&center=false&vCenter=false&random=false&width=435&lines=Hi+there+👋;My+name+is+Aviram+Shabtay+⚡;I+am+a+Software+Engineer+👩🏻‍💻;Passionate+about+learning+new+things+💫+)](https://git.io/typing-svg)
 
 <!--
 **aviramshab/aviramshab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
