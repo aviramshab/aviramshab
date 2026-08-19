@@ -1,17 +1,21 @@
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AEC1&center=false&vCenter=false&random=false&width=435&lines=Hi+there+👋;My+name+is+Aviram+Shabtay+⚡;I+am+a+Software+Engineer+👩🏻‍💻;Passionate+about+learning+new+things+💫+)](https://git.io/typing-svg)
+## Aviram Shabtay
 
-<!--
-**aviramshab/aviramshab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Forward Deployed AI Engineer · Former Founder · Production AI Systems**
 
-Here are some ideas to get you started:
+I build production AI systems that sit between LLMs and real enterprise workflows — the layer where model output has to be correct, auditable, and safe to ship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Co-founder of Medii.ai, where I built the core AI and backend infrastructure for regulated pharmaceutical documentation: LLM-based translation of patient information leaflets, automated quality validation, and human review before release. Medii.ai was acquired by Dor Services, part of the Novolog Group.
+
+Now focused on applied AI engineering — LLM pipelines, evaluation and validation layers, agents, APIs, and the backend infrastructure that keeps them reliable in production.
+
+### Stack
+
+Python · FastAPI · Pydantic · SQLAlchemy · MySQL · REST APIs · Anthropic API · LLM evaluation and validation · Human-in-the-loop workflows · Document processing · AWS
+
+### Selected work
+
+**[medii-ai-pipeline](https://github.com/aviramshab/medii-ai-pipeline)** — Production AI backend for regulated pharmaceutical and medical documents. LLM translation, automated QA and numeric-fidelity validation, and human review, served through a FastAPI application.
+
+---
+
+New York, NY · aviramshab@gmail.com
